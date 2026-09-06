@@ -133,6 +133,17 @@
       "click": true
     },
     {
+      "name": "经典传奇2026",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpv_DK_N7CBG1QDaQ9IP9fItgWooV5LOIFPA&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://m.youtube.com/playlist?list=PLWyKG_HBHHZmQ_1TAur8x_KAbgkJLbsUj",
+      "webOpen": true,
+      "click": true
+    },
+    {
       "name": "经典传奇2022",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpv_DK_N7CBG1QDaQ9IP9fItgWooV5LOIFPA&usqp=CAU",
       "keyDownPlay": false,
