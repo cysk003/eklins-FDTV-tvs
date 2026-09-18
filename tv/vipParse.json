@@ -2,15 +2,9 @@
   "data": [
     {
       "id": 1,
-      "name": "量子 2025",
+      "name": "无尽 2025",
       "ad": "no",
-      "url": "https://lziplayer.com/?url="
-    },
-    {
-      "id": 1,
-      "name": "量子 2024",
-      "ad": "no",
-      "url": "https://playerlz.com/?url="
+      "url": "https://jx.xllmcms.com/dplayer/?url="
     },
     {
       "id": 1,
@@ -26,9 +20,15 @@
     },
     {
       "id": 1,
-      "name": "无尽 2025",
+      "name": "量子 2025",
       "ad": "no",
-      "url": "https://jx.xllmcms.com/dplayer/?url="
+      "url": "https://lziplayer.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "量子 2024",
+      "ad": "no",
+      "url": "https://playerlz.com/?url="
     },
     {
       "id": 1,
